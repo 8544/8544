@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to My Profile
 
-<!--
-**8544/8544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  I’m currently working on big project
+-  I’m currently learning Python
+-  I’m looking to collaborate on anything with people
+-  I’m looking for help with school
+-  Ask me about my project
+-  How to reach me: coming soon...
+-  Pronouns: he/him
+-  Fun fact: i love to eat tomatoes
 
-Here are some ideas to get you started:
+### Stats
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=8544&show_icons=true&theme=prussian)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8544&layout=compact&theme=prussian)
+
+[My Project](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
