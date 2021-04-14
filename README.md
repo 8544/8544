@@ -13,3 +13,11 @@
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=8544&show_icons=true&theme=nord)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8544&layout=compact&theme=nord)
+
+
+
+
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=8544&show_icons=true&theme=nord)
+
+
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
