@@ -17,7 +17,7 @@
 
 
 
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=8544&show_icons=true&bg_color=#000e34&title_color=FFFFFF&icon_color=FFFFFF)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=8544&show_icons=true&bg_color=#000000&title_color=FFFFFF&icon_color=FFFFFF)
 
 
 &bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
