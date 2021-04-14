@@ -17,7 +17,7 @@
 
 
 
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=8544&show_icons=true&bg_color=#000000&title_color=FFFFFF&icon_color=FFFFFF)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=8544&show_icons=true&bg_color=#000000&title_color=000000&icon_color=000000)
 
 
     title_color - Card's title color (hex color)
