@@ -10,6 +10,6 @@
 -  Fun fact: i love to eat tomatoes
 
 ### Stats
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=8544&show_icons=true&theme=nord)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahCSDEV&show_icons=true&theme=nord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8544&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahCSDEV&layout=compact&theme=nord)
