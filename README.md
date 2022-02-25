@@ -5,5 +5,5 @@
 
 
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=stanfords&layout=compact&theme=nord)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=computer&layout=compact&theme=nord)
 
