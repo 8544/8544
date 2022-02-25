@@ -1,4 +1,4 @@
 ### Stats
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyCSs&show_icons=true&theme=nord)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CS-Andy&show_icons=true&theme=nord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCSs&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Andy&layout=compact&theme=nord)
